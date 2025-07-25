@@ -11,17 +11,17 @@
 
 ## 🎯 프로젝트의 목적(Purpose)
 
-> 주관</br>
-> 주제</br>
+> LikeLion 13th Hackathon</br>
+> 주제 - AI로 다시 뛰는 우리 동네 : 지역 경제와 삶을 AI로 연결해 보세요.</br>
 > 아이디어</br>
 >
-> 프로젝트 기간 : 2025/07/?? ~ 2025/08/26
+> 프로젝트 기간 : 2025/07/21 ~ 2025/08/26
 
 ## 🤩 팀원들(Team Members)
 
 |                                     Lead/BE                                     |                                               PM/Designer                                               |                                       FE                                       |                                     FE                                     |                                          BE                                          |
 |:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
-|                       [윤희준](https://github.com/uni-j-uni)                      |                                                [정영진]()                                                |                   [박성연](https://github.com/psyyyyyyyyyyyyyy)                  |                    [김준혁](https://github.com/wnsgur393)                    |                        [금시언](https://github.com/silversieon)                        |
+|                       [윤희준](https://github.com/uni-j-uni)                      |                                                [정영진](https://github.com/uni-j-uni)                                                |                   [박성연](https://github.com/psyyyyyyyyyyyyyy)                  |                    [김준혁](https://github.com/wnsgur393)                    |                        [금시언](https://github.com/silversieon)                        |
 | <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="300" /> | <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="300" /> | <img src="https://avatars.githubusercontent.com/u/162978087?v=4" width="300" /> | <img src="https://avatars.githubusercontent.com/u/202277535?v=4" width="300" /> | <img src="https://avatars.githubusercontent.com/u/172238270?v=4" width="300" /> |
 
 ## 🛠️ 기술 스택(Tech)
